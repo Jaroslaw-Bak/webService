@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongodb": "^4.11.0"
-  }
+  },
+  "name": "webservice",
+  "description": "��#\u0000 \u0000w\u0000e\u0000b\u0000S\u0000e\u0000r\u0000v\u0000i\u0000c\u0000e\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaroslaw-Bak/webService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaroslaw-Bak/webService/issues"
+  },
+  "homepage": "https://github.com/Jaroslaw-Bak/webService#readme"
 }
